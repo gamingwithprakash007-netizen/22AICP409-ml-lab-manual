@@ -1,5 +1,4 @@
-# Ignore Python requirements during Vercel deployment so it deploys as a static site
-requirements.txt
-experiments/
-*.py
-*.ipynb
+requirements.txt 
+pyproject.toml 
+Pipfile 
+*.py 
